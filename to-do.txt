@@ -2,3 +2,4 @@ The following are things that need to be added to index.html for the website:
 > Add a heading & footer
 > Add a subheading
 > Add relevant text and images (Branding and images for context relating to text)
+> Setup Github Pages for website hosting
